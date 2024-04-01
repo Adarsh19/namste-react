@@ -1,0 +1,18 @@
+- src
+  - components
+    - ShoppingCart
+      - ShoppingCart.js
+      - ShoppingCart.css
+    - Product
+      - Product.js
+      - Product.css
+    - PaymentGateway
+      - Paypal.js
+      - Paypal.css
+  - utils
+    - api.js
+  - App.js
+  - index.js
+- public
+  - index.html
+- package.json
